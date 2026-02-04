@@ -1,0 +1,16 @@
+Column,Null_Count,Null_Percentage,Question_Mark_Count,Question_Mark_Percentage,Unique_Values,Data_Type,Total_Missing,Total_Missing_Percentage
+occupation,0,0.0,1843,5.66,15,str,1843,5.66
+workclass,0,0.0,1836,5.64,9,str,1836,5.64
+native.country,0,0.0,583,1.79,42,str,583,1.79
+fnlwgt,0,0.0,0,0.0,21648,int64,0,0.0
+education,0,0.0,0,0.0,16,str,0,0.0
+education.num,0,0.0,0,0.0,16,int64,0,0.0
+age,0,0.0,0,0.0,73,int64,0,0.0
+marital.status,0,0.0,0,0.0,7,str,0,0.0
+relationship,0,0.0,0,0.0,6,str,0,0.0
+sex,0,0.0,0,0.0,2,str,0,0.0
+race,0,0.0,0,0.0,5,str,0,0.0
+capital.gain,0,0.0,0,0.0,119,int64,0,0.0
+capital.loss,0,0.0,0,0.0,92,int64,0,0.0
+hours.per.week,0,0.0,0,0.0,94,int64,0,0.0
+income,0,0.0,0,0.0,2,str,0,0.0

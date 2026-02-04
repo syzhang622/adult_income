@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files (optional - 根据需要调整)
+# *.csv
+# *.pkl
+# data/raw/*.data
+# data/processed/*.csv
+
+# Output files (optional - 可以选择性提交)
+# outputs/figures/*.png
+# outputs/models/*.pkl
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

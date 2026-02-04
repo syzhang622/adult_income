@@ -1,0 +1,7 @@
+Column,Outliers_Found,Action
+age,140,"Capped to [17.00, 74.00]"
+fnlwgt,961,"Capped to [27153.00, 510072.00]"
+education.num,1158,"Capped to [3.00, 16.00]"
+capital.gain,2658,"Capped to [0.00, 15024.00]"
+capital.loss,1483,"Capped to [0.00, 1980.00]"
+hours.per.week,8850,"Capped to [8.00, 80.00]"

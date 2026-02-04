@@ -1,7 +1,0 @@
-Type,Issue,Severity
-Bias,Gender imbalance: 66.9% Male,High
-Bias,Racial imbalance: 85.4% White,High
-Missing Data,workclass: 5.6% missing,Medium
-Missing Data,occupation: 5.7% missing,Medium
-Imbalance,Income class imbalance ratio: 31.7%,Medium
-Statistical,Potential Simpson's Paradox,High

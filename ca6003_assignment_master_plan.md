@@ -1643,8 +1643,8 @@ peer evaluation时说不清谁做了什么
    - 讨论了accuracy-fairness trade-off
 
 5. **模型对比（10/10）**
-   - Minimal版本：只删除空行 → AUC 0.72
-   - Full版本：完整准备 → AUC 0.86
+   - Minimal版本：只删除空行 → Accuracy 0.80, AUC 0.82
+   - Full版本：完整准备 → Accuracy 0.86, AUC 0.91
    - 做了消融实验：逐步添加数据准备步骤，看增益
    - 分析了哪个步骤贡献最大（特征工程 +0.08 AUC）
 
